@@ -1,0 +1,42 @@
+body {
+    padding: 0px !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-weight: 400;
+    text-align: center;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+nav ul li {
+    display:inline-block;
+}
+
+#homeimg {
+    height: 300px;
+    width: auto;
+}
+
+header {
+    background-color: #1DBABF;
+    color: #fff;
+}
+
+header,section {
+    padding: 5% 5% 0px 5%;
+}
+.whitelink {
+    color:#fff
+}
+
+.active {
+    color:#1DBABF;
+    background-color:#fff;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.nounderline {
+    text-decoration: none;
+    padding: 10px 10px 10px 10px
+}
